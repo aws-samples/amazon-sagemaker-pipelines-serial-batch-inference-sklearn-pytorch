@@ -1,0 +1,9 @@
+boto3
+botocore
+joblib
+numpy
+pandas
+sagemaker
+scikit-learn
+torch
+

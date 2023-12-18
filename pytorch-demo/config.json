@@ -1,0 +1,14 @@
+{
+    "DEFAULT_BUCKET": "pytorch-serial-inference-demo",
+    "MODEL_PACKAGE_GROUP_NAME": "PipelinePyTorchPackageGroup",
+    "PREFIX": "pipeline-pytorch-example",
+    "PIPELINE_NAME": "serial-pytorch-pipeline",
+    "INPUT_DATA": "s3://pytorch-serial-inference-demo/pipeline-pytorch-example/housing_data/raw",
+    "MODEL_APPROVAL_STATUS": "Approved",
+    "PROCESSING_INSTANCE_TYPE": "ml.m5.xlarge",
+    "PROCESSING_INSTANCE_COUNT": 1,
+    "TRAINING_INSTANCE_TYPE": "ml.m5.xlarge",
+    "CREATE_MODEL_INSTANCE_TYPE":"ml.m5.large", 
+    "BATCH_TRANSFORM_INSTANCE_COUNT":1,
+    "BATCH_TRANSFORM_INSTANCE_TYPE": "ml.m5.xlarge"
+}

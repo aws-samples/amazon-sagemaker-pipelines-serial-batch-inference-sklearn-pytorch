@@ -1,0 +1,14 @@
+{
+    "DEFAULT_BUCKET": "sklearn-mlops-inf-pipeline-demo",
+    "MODEL_PACKAGE_GROUP_NAME": "PipelineSKLearnModelPackageGroup",
+    "PREFIX": "serial-inference-pipeline",
+    "PIPELINE_NAME": "serial-inference-pipeline",
+    "INPUT_DATA": "s3://sklearn-mlops-inf-pipeline-demo/serial-inference-pipeline/housing_data/raw",
+    "MODEL_APPROVAL_STATUS": "Approved",
+    "PROCESSING_INSTANCE_TYPE": "ml.m5.xlarge",
+    "PROCESSING_INSTANCE_COUNT": 1,
+    "TRAINING_INSTANCE_TYPE": "ml.m5.xlarge",
+    "CREATE_MODEL_INSTANCE_TYPE":"ml.m5.large", 
+    "BATCH_TRANSFORM_INSTANCE_COUNT":1,
+    "BATCH_TRANSFORM_INSTANCE_TYPE": "ml.m4.xlarge"
+}
