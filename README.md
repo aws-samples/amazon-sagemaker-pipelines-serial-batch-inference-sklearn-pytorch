@@ -66,4 +66,4 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 ## Authors and Acknowledgments
 - Samantha Stuart - Associate Data Scientist | GitHub: [@hellosamstuart](https://github.com/hellosamstuart)
 - Tan Xu - Senior Data & ML Architect
-- Hisham Mohammad - Associate Data Scientist
+- Hisham Mohammad - Associate Data Scientist | Github: [@hishmania94](https://github.com/hishmania94)
